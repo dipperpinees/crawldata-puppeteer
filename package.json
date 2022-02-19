@@ -1,0 +1,14 @@
+{
+  "name": "webcrawl",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "ts-node app.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "puppeteer": "^13.3.2",
+    "ts-node": "^10.5.0"
+  }
+}
